@@ -1,0 +1,33 @@
+/* NAV CELULARES */
+.toggle {
+    order: 1;
+  }
+  .indice {
+    order: 2;
+  }
+  
+  .nav-indice li{
+    order: 3;
+  }
+  
+  .indice.active {
+    display: block;
+  }  
+
+@media all and (min-width: 600px) {
+  .nav {
+    justify-content: center;
+  }
+    .toggle {
+      flex: 1;
+      text-align: right;
+    }
+    .indice {
+      width: auto;
+      order: 1;
+      display: block;
+    }
+    .toggle {
+      order: 2;
+    }
+  }
