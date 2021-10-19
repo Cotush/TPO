@@ -1,22 +1,25 @@
 @media screen and (max-width: 600px) {
     .indice{
-        margin-right: 10px;
+        margin-right: 5px;
+    }
+    .nav-indice a{
+        font-size: 13px;
     }
     .logo{
         margin: 5px 0px 0px 20px;
-        width: 150px;
+        width: 100px;
     }
     .nosotros{
         padding: 5vw;
     }
     .nosotros > img{
-        height: 150px;
+        height: 100px;
     }
     .nosotros > h1{
-        font-size: 35px;
+        font-size: 20px;
     }
     .nosotros > p{
-        font-size: 25px;
+        font-size: 15px;
     }
     .item1{
         font-size: 30px;
