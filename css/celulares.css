@@ -1,6 +1,7 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
     .indice{
         margin-right: 5px;
+        padding: 5px 5px;
     }
     .nav-indice a{
         font-size: 13px;
