@@ -1,0 +1,43 @@
+@media screen and (max-width: 600px) {
+    .indice{
+        margin-right: 10px;
+    }
+    .logo{
+        margin: 5px 0px 0px 20px;
+        width: 150px;
+    }
+    .nosotros{
+        padding: 5vw;
+    }
+    .nosotros > img{
+        height: 150px;
+    }
+    .nosotros > h1{
+        font-size: 35px;
+    }
+    .nosotros > p{
+        font-size: 25px;
+    }
+    .item1{
+        font-size: 30px;
+    }
+    .item2{
+        font-size: 30px;
+    }
+    .item i{
+        font-size: 35px;
+    }
+    .f_contact > h3{
+        font-size: 15px;
+    }
+    .f_contact i{
+        font-size: 24px;
+        padding-left: 20px;
+    }
+    .f_img > img{
+        height: 10px;
+    }
+    .f_ubicac{
+        font-size: 12px;
+    }
+}
