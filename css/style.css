@@ -341,13 +341,13 @@ header{
   font-size: 25px;
 }
 
-#whatsapp{
+.whatsapp{
   background-color: white;
   color: #25d366;
   font-size: 40px;
 }
 
-#linkedin{
+.linkedin{
   color: #0072b1;
   font-size: 40px;
 }
@@ -454,25 +454,24 @@ footer{
 }
 
 
-#instagram{
+.instagram{
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
   -webkit-background-clip: text;
           background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-#facebook{
+.facebook{
   color: rgba(59, 88, 152, 0.733)
 }
 
-#twitter{
+.twitter{
   color: rgba(0, 171, 238, 0.664);
 }
 
 .ds_footer{
   background-size: cover; 
   height: 5vw;
-  min-height: 100px;
 }
 
 .celular_footer{
