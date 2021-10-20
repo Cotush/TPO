@@ -38,8 +38,12 @@
         font-size: 24px;
         padding-left: 20px;
     }
-    .f_img > img{
-        height: 10px;
+    .ds_footer{
+        display: none;
+    }
+    .celular_footer{
+        display: block;
+        height: 70px;
     }
     .f_ubicac{
         font-size: 12px;
